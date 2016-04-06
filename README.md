@@ -18,13 +18,13 @@ To start with POI, we need to ad Dependency in our Maven project.
 
 For **Excel 2007** format, Add following dependency:
 
-'''
+```
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
     <version>VERSION</version>
 </dependency>
-'''
+```
 As of 04/2016, latest version of poi-ooxml is 3.14
 
 ## The Apache API Basics
